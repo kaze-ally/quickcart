@@ -1,0 +1,2007 @@
+{
+  "results": [
+    {
+      "id": "611654532_P",
+      "product": {
+        "name": "projects/1000761133057/locations/global/catalogs/default_catalog/branches/0/products/611654532_P",
+        "categories": [
+          "Category > Groceries > Dairy & Bakery > Milk & Milk Products > Milk"
+        ],
+        "title": "Govind Funzz Flavoured Milk with Three Flavours - Badam, Pista & Keshar. 200ml Each, Pack of 12",
+        "attributes": {
+          "variant_info": {
+            "text": [
+              "611654532"
+            ]
+          }
+        },
+        "variants": [
+          {
+            "name": "projects/1000761133057/locations/global/catalogs/default_catalog/branches/0/products/611654532",
+            "id": "611654532",
+            "type": "VARIANT",
+            "title": "Govind Funzz Flavoured Milk with Three Flavours - Badam, Pista & Keshar. 200ml Each, Pack of 12",
+            "brands": [
+              "Govind"
+            ],
+            "attributes": {
+              "avg_selling_price": {
+                "numbers": [
+                  343.59
+                ],
+                "indexable": false
+              },
+              "food_type": {
+                "text": [
+                  "Green Dot"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "payment_tag_todate": {
+                "text": [
+                  "0"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "seller_ids": {
+                "text": [
+                  "14001"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "buybox_mrp": {
+                "text": [
+                  "2051|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "2164|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "2654|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "2852|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "2933|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "6202|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "3338|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "6203|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "5518|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "3201|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "6205|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "6206|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "6210|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "6217|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "6219|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "6224|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "6243|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "6220|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "6703|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "6704|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "6701|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "6723|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "6722|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "9693|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FR23|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "F1BB|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "DSVS33|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FR45|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FR52|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FR47|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FR74|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FR71|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FR16|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FR79|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FR98|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FRAU|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FRFH|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FRFK|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FRFO|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FRGA|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FRGK|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FRGH|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FRGS|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FRGW|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "PANINDIAGROCERIES|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "T12D|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "T64J|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "T1IP|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "T6HZ|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TA35|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TAC1|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "T917|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TA9N|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TB23|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TDB2|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TC95|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TDB7|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TG87|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TFD6|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TDC1|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TFP8|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TH91|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TIX7|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TI76|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TIZ4|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TK48|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TJJ4|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TLI7|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TLI2|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TMZ5|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TNA8|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TNA7|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TNA9|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TNC1|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TNB8|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TNC2|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TNC8|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TNC6|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TNC4|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TNC7|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TND0|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TND3|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TND1|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TND4|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TND7|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TND5|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TNJ0|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TNE3|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TNE2|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TNM2|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TNJ1|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TO20|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TOG2|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TOJ7|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TPM4|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TP76|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TQ58|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TS34|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TR86|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TT57|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TUI2|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TUB4|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TV26|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TUM6|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TVD7|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TXCF|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TW11|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TXCJ|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TXOR|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TXPO|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TXPN|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TXCK|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TXY2|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TXX8|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TXUL|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TZ20|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "U1C7|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TZ5V|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "U1GA|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "U1IJ|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "U1DA|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U1QQ|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "U1QR|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "U1X5|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U1P7|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "U1QS|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "U1RU|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U1YZ|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "U1WH|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U1ZR|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U267|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "U3AU|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "U271|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "U490|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U27I|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "U3PT|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "U495|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U588|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "U509|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "U629|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U681|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "U636|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "U802|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "U907|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "U831|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "T9DH|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "U1FW|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TK10|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TK1C|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TK1O|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TK1Z|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TK2N|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TK4O|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TOM0|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "FRCA|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "T5WH|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TA5M|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U591|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FRFU|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "T13A|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TG2K|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TZ4W|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "FR51|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FRER|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FRGU|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TA5I|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TL3E|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TM4P|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "TNDO|14001|Govind milk and milk products private limited||360.0|360.0|||||1|",
+                  "6239|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FRCP|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "T1FZ|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TANV|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TI5L|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FROJ|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U803|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "T2DO|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U12M|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U1BA|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U2A4|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U3BG|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "T5BA|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "T9OB|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TAH4|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TKX4|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U539|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U784|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "T18U|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TCE7|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TL9W|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "2095|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "2096|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "2149|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "2227|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "2524|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "2812|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "2952|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "T9CH|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TK6Z|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U17T|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U1GM|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U3SS|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "2848|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TK4Y|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U1FJ|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U1UQ|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TJG2|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "2784|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "T84L|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U568|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TM2V|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FRHM|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "3007|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TL1U|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FRDT|14001|Govind milk and milk products private limited||336.0|336.0|||||1|"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "ext_attributes": {
+                "text": [
+                  "Packsize:Pack of  12"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "avg_discount_pct": {
+                "numbers": [
+                  0
+                ],
+                "indexable": false
+              },
+              "popularity": {
+                "numbers": [
+                  3
+                ],
+                "indexable": false
+              },
+              "uom_for_price_compare_factor": {
+                "numbers": [
+                  1
+                ],
+                "indexable": false
+              },
+              "category_level_id": {
+                "text": [
+                  "1-2-61-29011-29191"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "alternate_product_code": {
+                "text": [
+                  "RVCU4OTZ8P"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "available_at_3p_seller": {
+                "text": [
+                  "true"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "pre_order_enabled": {
+                "text": [
+                  "0"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "brand_id": {
+                "numbers": [
+                  2558
+                ],
+                "indexable": false
+              },
+              "vertical_code": {
+                "text": [
+                  "GROCERIES"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "tag_todate": {
+                "text": [
+                  "0"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "seller_names": {
+                "text": [
+                  "Govind milk and milk products private limited"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "inv_stores_3p": {
+                "text": [
+                  "general_zone"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "doorstep_finance_enabled": {
+                "text": [
+                  "0"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "uom_for_price_compare_value": {
+                "numbers": [
+                  0
+                ],
+                "indexable": false
+              }
+            },
+            "uri": "https://www.jiomart.com/p/groceries/govind-funzz-flavoured-milk-with-three-flavours-badam-pista-keshar-200ml-each-pack-of-12/611654532",
+            "images": [
+              {
+                "uri": "https://www.jiomart.com/images/product/original/rvcu4otz8p/govind-funzz-flavoured-milk-with-three-flavours-badam-pista-keshar-200ml-each-pack-of-12-product-images-orvcu4otz8p-p611654532-0-202506151826.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      "matchingVariantCount": 1,
+      "variantRollupValues": {
+        "variantId": [
+          "611654532"
+        ]
+      }
+    },
+    {
+      "id": "611655848_P",
+      "product": {
+        "name": "projects/1000761133057/locations/global/catalogs/default_catalog/branches/0/products/611655848_P",
+        "categories": [
+          "Category > Groceries > Dairy & Bakery > Milk & Milk Products > Milk"
+        ],
+        "title": "Govind Funzz  Flavoured Milk -Pista, Rose, Chocolate, Butterscotch, Badam, Kesar-Enriched 200 Ml (Pack Of 12)",
+        "attributes": {
+          "variant_info": {
+            "text": [
+              "611655848"
+            ]
+          }
+        },
+        "variants": [
+          {
+            "name": "projects/1000761133057/locations/global/catalogs/default_catalog/branches/0/products/611655848",
+            "id": "611655848",
+            "type": "VARIANT",
+            "title": "Govind Funzz  Flavoured Milk -Pista, Rose, Chocolate, Butterscotch, Badam, Kesar-Enriched 200 Ml (Pack Of 12)",
+            "brands": [
+              "Govind"
+            ],
+            "attributes": {
+              "inv_stores_3p": {
+                "text": [
+                  "general_zone"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "doorstep_finance_enabled": {
+                "text": [
+                  "0"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "uom_for_price_compare_value": {
+                "numbers": [
+                  0
+                ],
+                "indexable": false
+              },
+              "brand_id": {
+                "numbers": [
+                  2558
+                ],
+                "indexable": false
+              },
+              "seller_names": {
+                "text": [
+                  "Govind milk and milk products private limited"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "vertical_code": {
+                "text": [
+                  "GROCERIES"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "tag_todate": {
+                "text": [
+                  "0"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "pre_order_enabled": {
+                "text": [
+                  "0"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "available_at_3p_seller": {
+                "text": [
+                  "true"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "uom_for_price_compare_factor": {
+                "numbers": [
+                  1
+                ],
+                "indexable": false
+              },
+              "alternate_product_code": {
+                "text": [
+                  "RVQ7F2DRNB"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "category_level_id": {
+                "text": [
+                  "1-2-61-29011-29191"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "avg_discount_pct": {
+                "numbers": [
+                  0
+                ],
+                "indexable": false
+              },
+              "popularity": {
+                "numbers": [
+                  2
+                ],
+                "indexable": false
+              },
+              "buybox_mrp": {
+                "text": [
+                  "2654|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "2051|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "3338|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "2164|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "2852|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "2933|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "5518|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "6202|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "6205|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "6203|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "3201|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "6219|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "6206|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "6210|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "6701|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "6220|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "6224|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "6217|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "6703|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "DSVS33|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "6723|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FR16|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "6704|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "6243|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "9693|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "F1BB|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FR23|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "6722|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FR45|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FR98|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FR52|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FR47|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FRFH|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FRFO|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FRAU|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FR71|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FRFK|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FRGH|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FRGA|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FR74|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FRGS|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FRGK|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FRGW|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FR79|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "PANINDIAGROCERIES|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "T12D|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "T64J|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "T917|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "T1IP|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TA35|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "T6HZ|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TB23|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TA9N|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TDB2|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TDC1|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TAC1|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TC95|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TH91|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TDB7|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TFP8|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TFD6|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TJJ4|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TIX7|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TI76|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TG87|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TMZ5|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TLI2|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TK48|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TIZ4|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TNA8|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TNA7|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TLI7|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TNC2|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TNA9|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TNC6|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TNB8|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TNC8|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TND1|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TNC7|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TNC4|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TNC1|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TND0|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TND4|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TND3|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TND7|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TNE3|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TNJ1|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TND5|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TNE2|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TO20|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TOJ7|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TNJ0|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TNM2|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TP76|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TPM4|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TOG2|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TR86|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TQ58|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TT57|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TS34|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TUI2|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TW11|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TUB4|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TXOR|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TUM6|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TXCJ|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TXCF|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TV26|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TXPN|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TXPO|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TXCK|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TZ20|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TXX8|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U1C7|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TVD7|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TXUL|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U1GA|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TZ5V|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U1DA|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U1P7|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TXY2|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U1WH|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U1YZ|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U1QR|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U1RU|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U1IJ|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U267|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U27I|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U1QQ|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U1X5|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U1ZR|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U1QS|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U271|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U3PT|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U495|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U3AU|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U490|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U588|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U636|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U509|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U802|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U907|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U681|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U629|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U831|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "T9DH|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U1FW|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TK10|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TK1C|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TK1O|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TK1Z|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TK2N|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TK4O|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TOM0|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FRCA|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "T5WH|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TA5M|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U591|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FRFU|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "T13A|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TG2K|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TZ4W|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FR51|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FRER|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FRGU|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TA5I|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TL3E|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TM4P|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TNDO|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "6239|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FRCP|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "T1FZ|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TANV|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TI5L|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FROJ|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "T2DO|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U12M|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U1BA|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U2A4|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U3BG|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U803|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "T5BA|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "T9OB|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TAH4|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TKX4|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U539|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U784|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "T18U|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TCE7|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TL9W|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "2095|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "2096|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "2149|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "2227|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "2524|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "2812|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "2952|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "T9CH|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TK6Z|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U17T|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U1GM|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U3SS|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "2848|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TK4Y|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U1FJ|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U1UQ|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TJG2|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "2784|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "T84L|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "U568|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TM2V|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FRHM|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "3007|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "TL1U|14001|Govind milk and milk products private limited||336.0|336.0|||||1|",
+                  "FRDT|14001|Govind milk and milk products private limited||336.0|336.0|||||1|"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "ext_attributes": {
+                "text": [
+                  "Packsize:Pack of  12"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "avg_selling_price": {
+                "numbers": [
+                  336
+                ],
+                "indexable": false
+              },
+              "food_type": {
+                "text": [
+                  "Green Dot"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "payment_tag_todate": {
+                "text": [
+                  "0"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "seller_ids": {
+                "text": [
+                  "14001"
+                ],
+                "searchable": false,
+                "indexable": false
+              }
+            },
+            "uri": "https://www.jiomart.com/p/groceries/govind-funzz-flavoured-milk-pista-rose-chocolate-butterscotch-badam-kesar-enriched-200-ml-pack-of-12/611655848",
+            "images": [
+              {
+                "uri": "https://www.jiomart.com/images/product/original/rvq7f2drnb/govind-funzz-flavoured-milk-pista-rose-chocolate-butterscotch-badam-kesar-enriched-200-ml-pack-of-12-product-images-orvq7f2drnb-p611655848-0-202506161316.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      "matchingVariantCount": 1,
+      "variantRollupValues": {
+        "variantId": [
+          "611655848"
+        ]
+      }
+    },
+    {
+      "id": "611071336_P",
+      "product": {
+        "name": "projects/1000761133057/locations/global/catalogs/default_catalog/branches/0/products/611071336_P",
+        "categories": [
+          "Category > Groceries > Dairy & Bakery > Milk & Milk Products > Flavoured Milk"
+        ],
+        "title": "Param Premium Swad Bhi Sheath Bhi Almond Flavored Milk - Smooth, Delicious Flavored Pack with Nutrients & Vitamins (Pack of 12)",
+        "attributes": {
+          "variant_info": {
+            "text": [
+              "611071336"
+            ]
+          }
+        },
+        "variants": [
+          {
+            "name": "projects/1000761133057/locations/global/catalogs/default_catalog/branches/0/products/611071336",
+            "id": "611071336",
+            "type": "VARIANT",
+            "title": "Param Premium Swad Bhi Sheath Bhi Almond Flavored Milk - Smooth, Delicious Flavored Pack with Nutrients & Vitamins (Pack of 12)",
+            "brands": [
+              "Param Premium Swad Bhi Sheath Bhi"
+            ],
+            "attributes": {
+              "alternate_product_code": {
+                "text": [
+                  "RVXT2VOMYF"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "category_level_id": {
+                "text": [
+                  "1-2-61-29011-29197"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "uom_for_price_compare_factor": {
+                "numbers": [
+                  1
+                ],
+                "indexable": false
+              },
+              "popularity": {
+                "numbers": [
+                  2
+                ],
+                "indexable": false
+              },
+              "avg_discount_pct": {
+                "numbers": [
+                  37.01851851851852
+                ],
+                "indexable": false
+              },
+              "buybox_mrp": {
+                "text": [
+                  "2051|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "2164|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "2852|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "2933|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "3201|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "3338|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "DSVS33|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "6217|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "F1BB|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "6219|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "FR23|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "6220|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "FR45|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "6202|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "6224|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "6203|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "6243|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "6205|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "6701|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "6703|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "6206|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "6704|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "6722|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "6723|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "FRFH|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "FRFK|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "FRGA|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "FRGH|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "FR52|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "FRGK|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "FR71|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "FRGS|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "FR74|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "FRGW|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "FR79|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "FR98|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "FRAU|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "PANINDIAGROCERIES|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "T12D|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TC95|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TJJ4|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TDB2|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "T1IP|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TK48|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TDB7|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "T917|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TNC2|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TLI2|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TDC1|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TA35|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TNE3|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TNC4|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TLI7|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TFD6|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TA9N|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TNC6|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TNJ0|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TMZ5|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TFP8|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TNC7|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TAC1|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TNJ1|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TNA7|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TG87|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TNM2|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TNC8|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TR86|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TB23|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TNA8|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TXCK|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TS34|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TH91|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TND0|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TO20|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TXOR|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TNA9|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TT57|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TI76|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TND1|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TOG2|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TNB8|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TXPN|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TUB4|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TIX7|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TND3|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TOJ7|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TNC1|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TXPO|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TUI2|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U1DA|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TIZ4|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TND4|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TXUL|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TP76|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U271|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TUM6|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U1GA|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TND7|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TXX8|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U27I|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TPM4|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TV26|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U1IJ|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TNE2|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TXY2|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TQ58|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U3AU|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TVD7|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U1P7|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U3PT|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TZ20|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TW11|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U1QQ|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U495|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TXCF|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TZ5V|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U1QR|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U509|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U1C7|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U1QS|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TXCJ|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U588|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U1RU|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U629|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U1YZ|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U681|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U1ZR|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U267|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U907|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U831|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "5518|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "FR47|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U802|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "2654|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "6210|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "T6HZ|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U1X5|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U636|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "9693|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TND5|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U490|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "FR16|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "FRFO|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "T64J|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U1WH|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "T9DH|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U1FW|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TK1C|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TK10|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TK1O|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TK1Z|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TK2N|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TK4O|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TOM0|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "FRCA|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "T5WH|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TA5M|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U591|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "FRFU|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "T13A|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TG2K|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TZ4W|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "FR51|47409|PARAM DAIRY LIMITED||960.0|579.0||381.0|39.0||2|",
+                  "FRER|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "FRGU|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TA5I|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TL3E|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TM4P|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TNDO|47409|PARAM DAIRY LIMITED||960.0|579.0||381.0|39.0||2|",
+                  "6239|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "FRCP|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TI5L|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "T1FZ|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TANV|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "FROJ|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "T2DO|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "T5BA|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "T9OB|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TAH4|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TKX4|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U12M|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U1BA|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U2A4|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U3BG|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U803|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "T18U|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TCE7|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TL9W|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U539|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U784|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "2095|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "2096|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "2149|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "2227|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "2524|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "2812|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "2952|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "T9CH|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TK6Z|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U17T|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U1GM|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U3SS|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "2848|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TK4Y|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U1FJ|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U1UQ|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TJG2|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "2784|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "T84L|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "U568|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TM2V|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "FRHM|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TL1U|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "3007|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "FRDT|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|",
+                  "TXTD|47409|PARAM DAIRY LIMITED||960.0|599.0||361.0|37.0||2|"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "payment_tag_todate": {
+                "text": [
+                  "0"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "seller_ids": {
+                "text": [
+                  "47409"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "avg_selling_price": {
+                "numbers": [
+                  598.81
+                ],
+                "indexable": false
+              },
+              "food_type": {
+                "text": [
+                  "Green Dot"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "uom_for_price_compare_value": {
+                "numbers": [
+                  0
+                ],
+                "indexable": false
+              },
+              "inv_stores_3p": {
+                "text": [
+                  "general_zone"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "doorstep_finance_enabled": {
+                "text": [
+                  "0"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "seller_names": {
+                "text": [
+                  "PARAM DAIRY LIMITED"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "vertical_code": {
+                "text": [
+                  "GROCERIES"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "tag_todate": {
+                "text": [
+                  "0"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "brand_id": {
+                "numbers": [
+                  196066
+                ],
+                "indexable": false
+              },
+              "pre_order_enabled": {
+                "text": [
+                  "0"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "available_at_3p_seller": {
+                "text": [
+                  "true"
+                ],
+                "searchable": false,
+                "indexable": false
+              }
+            },
+            "uri": "https://www.jiomart.com/p/groceries/param-premium-swad-bhi-sheath-bhi-amond-flavored-milk-smooth-delicious-flavored-pack-with-nutrients-vitamins-pack-of-12/611071336",
+            "images": [
+              {
+                "uri": "https://www.jiomart.com/images/product/original/rvxt2vomyf/param-premium-swad-bhi-sheath-bhi-amond-flavored-milk-smooth-delicious-flavored-pack-with-nutrients-vitamins-pack-of-12-product-images-orvxt2vomyf-p611071336-0-202504241400.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      "matchingVariantCount": 1,
+      "variantRollupValues": {
+        "variantId": [
+          "611071336"
+        ]
+      }
+    },
+    {
+      "id": "593517129_P",
+      "product": {
+        "name": "projects/1000761133057/locations/global/catalogs/default_catalog/branches/0/products/593517129_P",
+        "categories": [
+          "Category > Groceries > Biscuits, Drinks & Packaged Foods > Drinks & Juices > Nutritional Drinks"
+        ],
+        "title": "Oatey Oat Milk Barista Grade 1.6L (8 x 200ml) | No Added Sugar | Non-dairy | Low Calorie | Vegan | No Cholesterol | Nut Free | Soy Free",
+        "attributes": {
+          "variant_info": {
+            "text": [
+              "593517129"
+            ]
+          }
+        },
+        "variants": [
+          {
+            "name": "projects/1000761133057/locations/global/catalogs/default_catalog/branches/0/products/593517129",
+            "id": "593517129",
+            "type": "VARIANT",
+            "title": "Oatey Oat Milk Barista Grade 1.6L (8 x 200ml) | No Added Sugar | Non-dairy | Low Calorie | Vegan | No Cholesterol | Nut Free | Soy Free",
+            "brands": [
+              "OATEY"
+            ],
+            "attributes": {
+              "pre_order_enabled": {
+                "text": [
+                  "0"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "available_at_3p_seller": {
+                "text": [
+                  "true"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "seller_names": {
+                "text": [
+                  "PLANT ESSENTIALS PRIVATE LIMITED"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "vertical_code": {
+                "text": [
+                  "GROCERIES"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "tag_todate": {
+                "text": [
+                  "2025-10-10"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "brand_id": {
+                "numbers": [
+                  13735
+                ],
+                "indexable": false
+              },
+              "uom_for_price_compare_value": {
+                "numbers": [
+                  0
+                ],
+                "indexable": false
+              },
+              "inv_stores_3p": {
+                "text": [
+                  "general_zone"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "doorstep_finance_enabled": {
+                "text": [
+                  "0"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "tag": {
+                "text": [
+                  "JioUtsav Sale Price Live"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "payment_tag_todate": {
+                "text": [
+                  "0"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "seller_ids": {
+                "text": [
+                  "8714"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "avg_selling_price": {
+                "numbers": [
+                  496.5
+                ],
+                "indexable": false
+              },
+              "food_type": {
+                "text": [
+                  "Green Dot"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "buybox_mrp": {
+                "text": [
+                  "3201|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "3338|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "6202|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "6203|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "6205|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "6206|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "6217|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "6219|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "6220|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "6224|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "6243|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "6701|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "6703|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "6704|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "6722|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "6723|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "DSVS33|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "F1BB|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "FRGA|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "PANINDIAGROCERIES|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "T917|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TB23|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TCD6|8714|MILTEX EQUIPMENTS||520|416||104|20||1|",
+                  "TCE7|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TDB2|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TDC1|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TE39|8714|MILTEX EQUIPMENTS||520|416||104|20||1|",
+                  "TFD6|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TFP8|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TG87|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TH91|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TI76|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TIX7|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TK48|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TLI2|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TLI7|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TMZ5|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TNA7|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TNA8|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TNA9|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TNB8|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TNC1|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TNC2|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TNC4|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TNC7|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TNC8|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TND0|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TND1|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TND3|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TND4|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TND7|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TNE2|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TNE3|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TNJ0|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TNJ1|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TNJ2|8714|PLANT ESSENTIALS PRIVATE LIMITED||520.0|442.0||78.0|15.0||1|",
+                  "TNM2|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TO20|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TOG2|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TOJ7|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TR86|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TS34|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TUB4|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TVD7|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TW11|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TX40|8714|MILTEX EQUIPMENTS||260|195||65|25||2|",
+                  "TXCF|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TXCJ|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TXCK|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TXOR|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TXPN|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TXUL|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TZ5V|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U1P7|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "FRGK|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U1GA|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U1IJ|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U1QR|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U1RB|8714|PLANT ESSENTIALS PRIVATE LIMITED||520.0|395.0||125.0|24.0||1|",
+                  "U1YZ|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U1ZR|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U267|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U271|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U629|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U651|8714|PLANT ESSENTIALS PRIVATE LIMITED||520.0|416.0||104.0|20.0||1|",
+                  "U907|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "FRGS|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "FR52|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U3PT|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U3AU|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TXPO|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "T12D|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "FRGH|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TUI2|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TC95|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TNC6|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TQ58|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "FRAU|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TJJ4|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U1RU|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TXX8|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "2852|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "FR98|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TA35|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "FR74|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U22S|8714|PLANT ESSENTIALS PRIVATE LIMITED||520.0|508.0||12.0|2.0||1|",
+                  "U22T|8714|PLANT ESSENTIALS PRIVATE LIMITED||520.0|508.0||12.0|2.0||1|",
+                  "U1DA|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U27I|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U2E6|8714|PLANT ESSENTIALS PRIVATE LIMITED||520.0|508.0||12.0|2.0||1|",
+                  "U2I4|8714|PLANT ESSENTIALS PRIVATE LIMITED||520.0|508.0||12.0|2.0||1|",
+                  "U2RN|8714|PLANT ESSENTIALS PRIVATE LIMITED||520.0|508.0||12.0|2.0||1|",
+                  "U2SZ|8714|PLANT ESSENTIALS PRIVATE LIMITED||520.0|508.0||12.0|2.0||1|",
+                  "U2UN|8714|PLANT ESSENTIALS PRIVATE LIMITED||520.0|508.0||12.0|2.0||1|",
+                  "U2WT|8714|PLANT ESSENTIALS PRIVATE LIMITED||520.0|508.0||12.0|2.0||1|",
+                  "U2ZG|8714|PLANT ESSENTIALS PRIVATE LIMITED||520.0|508.0||12.0|2.0||1|",
+                  "U2ZV|8714|PLANT ESSENTIALS PRIVATE LIMITED||520.0|508.0||12.0|2.0||1|",
+                  "U3IY|8714|PLANT ESSENTIALS PRIVATE LIMITED||520.0|508.0||12.0|2.0||1|",
+                  "U3JA|8714|PLANT ESSENTIALS PRIVATE LIMITED||520.0|508.0||12.0|2.0||1|",
+                  "U3VI|8714|PLANT ESSENTIALS PRIVATE LIMITED||520.0|508.0||12.0|2.0||1|",
+                  "U495|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U509|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U708|8714|PLANT ESSENTIALS PRIVATE LIMITED||520.0|508.0||12.0|2.0||1|",
+                  "U831|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "FRGW|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TP76|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "2051|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "2164|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "FRFK|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "FR45|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TDB7|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TIZ4|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TPM4|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TT57|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TXY2|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TZ20|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U588|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U681|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TAC1|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U1C7|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "2933|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "FRFH|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U1QQ|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U1QS|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "FR23|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "FR71|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "FR79|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "T1IP|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TA9N|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TUM6|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TV26|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "5518|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "FR47|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U802|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "2654|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "6210|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "T6HZ|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U1X5|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U636|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U490|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "9693|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TND5|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "FRFO|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "FR16|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "T64J|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U1WH|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "T9DH|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U1FW|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TK1C|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TK10|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TK1O|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TK1Z|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TK2N|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TK4O|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TOM0|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "FRCA|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "T5WH|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TA5M|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U591|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "FRFU|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "T13A|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TG2K|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TZ4W|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "FR51|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "FRER|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "FRGU|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TA5I|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TL3E|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TM4P|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TNDO|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "6239|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "FRCP|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "T1FZ|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TANV|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TI5L|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "FROJ|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "T2DO|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "T5BA|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TAH4|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TKX4|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "T9OB|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U12M|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U2A4|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U803|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U1BA|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U3BG|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "T18U|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TL9W|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U784|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U539|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "2095|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "2096|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "2149|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "2524|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "2227|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "2812|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "2952|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "T9CH|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TK6Z|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U17T|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U1GM|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U3SS|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "2848|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TK4Y|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U1FJ|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U1UQ|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TJG2|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "2784|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "T84L|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "U568|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TM2V|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "FRHM|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "3007|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TL1U|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "FRDT|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|",
+                  "TXTD|8714|PLANT ESSENTIALS PRIVATE LIMITED||632.0|499.0||133.0|21.0||3|"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "popularity": {
+                "numbers": [
+                  0
+                ],
+                "indexable": false
+              },
+              "avg_discount_pct": {
+                "numbers": [
+                  19.864406779661017
+                ],
+                "indexable": false
+              },
+              "alternate_product_code": {
+                "text": [
+                  "RV1Z2QMOJF"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "category_level_id": {
+                "text": [
+                  "1-2-28997-29003-29507"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "uom_for_price_compare_factor": {
+                "numbers": [
+                  1
+                ],
+                "indexable": false
+              }
+            },
+            "uri": "https://www.jiomart.com/p/groceries/oatey-oat-drink-unsweetened-vegan-nut-free-soy-free-no-added-sugar-200ml-pack-of-4/593517129",
+            "images": [
+              {
+                "uri": "https://www.jiomart.com/images/product/original/rv1z2qmojf/oatey-barista-oat-drink-unsweetened-vegan-nut-free-soy-free-no-added-sugar-200ml-pack-of-8-product-images-orv1z2qmojf-p593517129-0-202508191735.png"
+              }
+            ]
+          }
+        ]
+      },
+      "matchingVariantCount": 1,
+      "variantRollupValues": {
+        "variantId": [
+          "593517129"
+        ]
+      }
+    },
+    {
+      "id": "611390297_P",
+      "product": {
+        "name": "projects/1000761133057/locations/global/catalogs/default_catalog/branches/0/products/611390297_P",
+        "categories": [
+          "Category > Groceries > Dairy & Bakery > Milk & Milk Products > Milk Powder & Cream"
+        ],
+        "title": "Govind Instant Skimmed Milk Powder, 200g (Buy 1 Get 1 Free)",
+        "attributes": {
+          "variant_info": {
+            "text": [
+              "611390297"
+            ]
+          }
+        },
+        "variants": [
+          {
+            "name": "projects/1000761133057/locations/global/catalogs/default_catalog/branches/0/products/611390297",
+            "id": "611390297",
+            "type": "VARIANT",
+            "title": "Govind Instant Skimmed Milk Powder, 200g (Buy 1 Get 1 Free)",
+            "brands": [
+              "Govind"
+            ],
+            "attributes": {
+              "pre_order_enabled": {
+                "text": [
+                  "0"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "available_at_3p_seller": {
+                "text": [
+                  "true"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "uom_for_price_compare_value": {
+                "numbers": [
+                  0
+                ],
+                "indexable": false
+              },
+              "tag": {
+                "text": [
+                  "Trending"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "inv_stores_3p": {
+                "text": [
+                  "general_zone"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "doorstep_finance_enabled": {
+                "text": [
+                  "0"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "seller_names": {
+                "text": [
+                  "Govind milk and milk products private limited"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "vertical_code": {
+                "text": [
+                  "GROCERIES"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "tag_todate": {
+                "text": [
+                  "2026-04-30"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "brand_id": {
+                "numbers": [
+                  2558
+                ],
+                "indexable": false
+              },
+              "ext_attributes": {
+                "text": [
+                  "Packsize:Pack of 1"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "buybox_mrp": {
+                "text": [
+                  "2051|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "2654|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "2933|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "2164|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "2852|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "3338|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "3201|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "6203|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "5518|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "6206|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "6205|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "6217|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "6202|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "6210|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "6220|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "6219|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "6243|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "6722|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "6703|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "9693|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "6224|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "FR52|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "FR45|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "6701|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "6723|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "6704|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "DSVS33|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "F1BB|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "FR71|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "FR47|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "FR79|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "FR23|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "FR74|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "FR98|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "FRFK|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "FRAU|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "FRGA|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "FRGK|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "FRGW|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "FRFO|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "FRFH|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "FRGH|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "PANINDIAGROCERIES|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "FRGS|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TA9N|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "T1IP|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "T917|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "T12D|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TB23|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TAC1|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TDB2|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "T6HZ|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TA35|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TDC1|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TFP8|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TC95|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TDB7|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TFD6|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TG87|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TI76|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TIZ4|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TH91|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TIX7|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TLI7|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TK48|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TJJ4|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TNC1|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TMZ5|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TLI2|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TNA7|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TNA9|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TNC4|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TNC7|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TNC2|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TND0|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TNA8|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TNB8|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TNC6|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TNC8|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TND1|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TND4|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TND7|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TNJ1|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TNE3|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TND3|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TNE2|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TND5|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TNJ0|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TOJ7|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TO20|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TNM2|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TR86|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TPM4|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TUI2|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TT57|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TOG2|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TP76|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TS34|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TQ58|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TUM6|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TUB4|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TVD7|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TV26|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TXCF|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TXCK|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TXPN|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TW11|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TXUL|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TXCJ|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TXY2|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TXPO|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TXOR|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U1DA|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TZ5V|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TXX8|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TZ20|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U1QQ|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U1IJ|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U1GA|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U1C7|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U1QR|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U1P7|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U1RU|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U1QS|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U27I|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U267|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U1X5|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U3PT|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U495|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U271|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U636|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U3AU|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U588|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U490|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U1YZ|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U509|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U907|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U802|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U681|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U629|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U1ZR|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U831|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "FR16|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "T64J|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U1WH|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "T9DH|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U1FW|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TK1C|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TK10|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TK1O|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TK4O|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TK1Z|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TK2N|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TOM0|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "FRCA|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "T5WH|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TA5M|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U591|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "FRFU|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "T13A|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TG2K|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TZ4W|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "FR51|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "FRER|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "FRGU|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TA5I|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TL3E|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TM4P|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TNDO|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "6239|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "FRCP|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "T1FZ|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TANV|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TI5L|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "FROJ|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U12M|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "T2DO|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U1BA|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U2A4|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U3BG|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U803|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "T5BA|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "T9OB|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TAH4|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TKX4|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U539|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U784|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "T18U|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TCE7|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TL9W|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "2095|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "2096|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "2149|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "2227|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "2524|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "2812|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "2952|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "T9CH|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TK6Z|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U17T|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U1GM|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U3SS|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "2848|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TK4Y|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U1FJ|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U1UQ|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TJG2|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "2784|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "T84L|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "U568|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TM2V|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "FRHM|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "3007|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TL1U|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "FRDT|14001|Govind milk and milk products private limited||140.0|140.0|||||1|",
+                  "TXTD|14001|Govind milk and milk products private limited||140.0|140.0|||||1|"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "payment_tag_todate": {
+                "text": [
+                  "0"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "seller_ids": {
+                "text": [
+                  "14001"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "avg_selling_price": {
+                "numbers": [
+                  140
+                ],
+                "indexable": false
+              },
+              "food_type": {
+                "text": [
+                  "Green Dot"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "alternate_product_code": {
+                "text": [
+                  "RVHL9ZIO80"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "category_level_id": {
+                "text": [
+                  "1-2-61-29011-29201"
+                ],
+                "searchable": false,
+                "indexable": false
+              },
+              "uom_for_price_compare_factor": {
+                "numbers": [
+                  1
+                ],
+                "indexable": false
+              },
+              "popularity": {
+                "numbers": [
+                  11
+                ],
+                "indexable": false
+              },
+              "avg_discount_pct": {
+                "numbers": [
+                  0
+                ],
+                "indexable": false
+              }
+            },
+            "uri": "https://www.jiomart.com/p/groceries/govind-instant-skimmed-milk-powder-200g-buy-1-get-1-free/611390297",
+            "images": [
+              {
+                "uri": "https://www.jiomart.com/images/product/original/rvhl9zio80/govind-instant-skimmed-milk-powder-200g-buy-1-get-1-free-product-images-orvhl9zio80-p611390297-0-202505031703.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      "matchingVariantCount": 1,
+      "variantRollupValues": {
+        "variantId": [
+          "611390297"
+        ]
+      }
+    }
+  ],
+  "facets": [
+    {
+      "key": "brands",
+      "values": [
+        {
+          "value": "1st Step",
+          "count": "2"
+        },
+        {
+          "value": "4 FOUR",
+          "count": "1"
+        },
+        {
+          "value": "4 U WELL",
+          "count": "1"
+        },
+        {
+          "value": "7 SAGE ENTERPRISES",
+          "count": "1"
+        },
+        {
+          "value": "90's Mill",
+          "count": "166"
+        }
+      ]
+    }
+  ],
+  "totalSize": 3491,
+  "attributionToken": "rQHwrAoLCM_Lyc4GENeymScQARokNmRiYjVhYTMtMDAwMC0yOTMzLWIwODUtMTQyMjNiYjU3OTQyKi5hbm9ueW1vdXMtOGE5MDY4ZTItYmMzYS00ODllLThmYTAtOGZlZGRiYzg4M2E0MiyblaQxqOWqLdSynRWg1JsVwvCeFZjWty2b1rcttreMLdbbrjeq3K43kPeyMDoOZGVmYXVsdF9zZWFyY2hIAVgBaAF6AnNp",
+  "nextPageToken": "gM0kzN1ImYzIjM0ETL1gDMi1yMzkjMtADMwATLxEWY1ImYkZDJaEwy-KO1QYgzZT7zIwgE1EgC"
+}

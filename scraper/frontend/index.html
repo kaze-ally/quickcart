@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+<title>QuickCart — Price Comparison</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;700;800&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet"/>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#0a0a0f;--surface:#12121a;--surface2:#1a1a26;
+  --border:rgba(255,255,255,0.07);--text:#f0f0f8;--muted:#6b6b88;
+  --blinkit:#f8d100;--zepto:#8b5cf6;--jiomart:#0ea5e9;--bigbasket:#84c225;
+  --green:#22c55e;--red:#ef4444;--amber:#f59e0b;--radius:14px;
+}
+body{background:var(--bg);color:var(--text);font-family:'DM Sans',sans-serif;min-height:100vh;overflow-x:hidden}
+body::before{content:'';position:fixed;inset:0;background-image:linear-gradient(rgba(139,92,246,0.03) 1px,transparent 1px),linear-gradient(90deg,rgba(139,92,246,0.03) 1px,transparent 1px);background-size:40px 40px;pointer-events:none;z-index:0}
+.orb{position:fixed;border-radius:50%;filter:blur(130px);pointer-events:none;z-index:0;opacity:0.25}
+.orb1{width:450px;height:450px;background:var(--blinkit);top:-180px;right:-80px}
+.orb2{width:380px;height:380px;background:var(--zepto);bottom:-120px;left:-80px}
+.wrap{max-width:1200px;margin:0 auto;padding:0 20px;position:relative;z-index:1}
+
+header{padding:44px 0 0;text-align:center}
+.logo{display:inline-flex;align-items:center;gap:10px;margin-bottom:12px}
+.logo-icon{width:44px;height:44px;background:linear-gradient(135deg,var(--blinkit),var(--zepto));border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:22px}
+.logo-text{font-family:'Syne',sans-serif;font-size:28px;font-weight:800;background:linear-gradient(90deg,var(--blinkit),#fff,var(--zepto));-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text}
+.tagline{font-size:13px;color:var(--muted)}
+
+.search-wrap{margin:36px 0 30px}
+.search-row{display:flex;gap:10px;max-width:640px;margin:0 auto 14px}
+.search-input{flex:1;background:var(--surface);border:1px solid var(--border);border-radius:13px;padding:15px 20px;font-family:'DM Sans',sans-serif;font-size:15px;color:var(--text);outline:none;transition:border-color .2s,box-shadow .2s}
+.search-input::placeholder{color:var(--muted)}
+.search-input:focus{border-color:rgba(139,92,246,0.5);box-shadow:0 0 0 3px rgba(139,92,246,0.1)}
+.search-btn{background:linear-gradient(135deg,var(--blinkit),#f59e0b);color:#000;border:none;border-radius:13px;padding:15px 26px;font-family:'Syne',sans-serif;font-size:14px;font-weight:700;cursor:pointer;transition:opacity .2s,transform .1s;white-space:nowrap}
+.search-btn:hover{opacity:.9}.search-btn:active{transform:scale(.97)}.search-btn:disabled{opacity:.5;cursor:not-allowed}
+.loc-row{display:flex;align-items:center;justify-content:center;gap:7px;font-size:12px;color:var(--muted)}
+.loc-dot{width:7px;height:7px;border-radius:50%;background:var(--green);animation:pulse 2s infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.4}}
+.tags{display:flex;gap:7px;justify-content:center;flex-wrap:wrap;margin-top:12px}
+.tag{background:var(--surface2);border:1px solid var(--border);border-radius:20px;padding:5px 13px;font-size:12px;color:var(--muted);cursor:pointer;transition:all .15s}
+.tag:hover{color:var(--text);border-color:rgba(255,255,255,0.2)}
+
+.status{text-align:center;padding:14px;font-size:13px;color:var(--muted);display:none}
+.spinner{display:inline-block;width:14px;height:14px;border:2px solid var(--border);border-top-color:var(--zepto);border-radius:50%;animation:spin .7s linear infinite;margin-right:8px;vertical-align:middle}
+@keyframes spin{to{transform:rotate(360deg)}}
+
+/* Buy suggestion */
+.buy-suggestion{border-radius:var(--radius);padding:18px 22px;margin:20px 0 16px;display:none;gap:16px;align-items:flex-start}
+.buy-suggestion.buy-now{background:rgba(34,197,94,0.08);border:1px solid rgba(34,197,94,0.2)}
+.buy-suggestion.wait{background:rgba(245,158,11,0.08);border:1px solid rgba(245,158,11,0.2)}
+.bs-icon{font-size:24px;flex-shrink:0;margin-top:2px}
+.bs-title{font-family:'Syne',sans-serif;font-size:15px;font-weight:700;margin-bottom:5px}
+.bs-desc{font-size:13px;color:var(--muted);line-height:1.6}
+.bs-stats{display:flex;gap:10px;margin-top:12px;flex-wrap:wrap}
+.bs-stat{background:rgba(255,255,255,0.05);border-radius:8px;padding:6px 14px;font-size:11px;color:var(--muted)}
+.bs-stat strong{color:var(--text);display:block;font-size:14px;font-family:'Syne',sans-serif;font-weight:700}
+
+/* Winner */
+.winner{background:linear-gradient(135deg,rgba(34,197,94,0.1),rgba(34,197,94,0.04));border:1px solid rgba(34,197,94,0.2);border-radius:var(--radius);padding:18px 24px;margin-bottom:24px;display:none;align-items:center;gap:16px;flex-wrap:wrap}
+.winner-left{flex:1;min-width:180px}
+.winner-label{font-family:'Syne',sans-serif;font-size:10px;font-weight:700;letter-spacing:2px;color:var(--green);text-transform:uppercase}
+.winner-name{font-size:15px;font-weight:500;line-height:1.35;margin-top:4px}
+.winner-meta{font-size:11px;color:var(--muted);margin-top:3px}
+.winner-right{display:flex;align-items:center;gap:14px}
+.winner-price{font-family:'Syne',sans-serif;font-size:26px;font-weight:800;color:var(--green)}
+.buy-btn-winner{background:var(--green);color:#000;border:none;border-radius:10px;padding:10px 18px;font-family:'Syne',sans-serif;font-size:13px;font-weight:700;cursor:pointer;text-decoration:none;display:inline-block;transition:opacity .2s}
+.buy-btn-winner:hover{opacity:.85}
+
+/* 4-col grid */
+.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin-bottom:48px}
+@media(max-width:900px){.grid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:500px){.grid{grid-template-columns:1fr}}
+.col{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);overflow:hidden}
+.col-head{padding:14px 16px;display:flex;align-items:center;gap:10px;border-bottom:1px solid var(--border)}
+.col-head.blinkit{background:rgba(248,209,0,0.08);border-bottom-color:rgba(248,209,0,0.15)}
+.col-head.zepto{background:rgba(139,92,246,0.08);border-bottom-color:rgba(139,92,246,0.15)}
+.col-head.jiomart{background:rgba(14,165,233,0.08);border-bottom-color:rgba(14,165,233,0.15)}
+.col-head.bigbasket{background:rgba(132,194,37,0.08);border-bottom-color:rgba(132,194,37,0.15)}
+.dot{width:9px;height:9px;border-radius:50%}
+.dot.blinkit{background:var(--blinkit);box-shadow:0 0 7px var(--blinkit)}
+.dot.zepto{background:var(--zepto);box-shadow:0 0 7px var(--zepto)}
+.dot.jiomart{background:var(--jiomart);box-shadow:0 0 7px var(--jiomart)}
+.dot.bigbasket{background:var(--bigbasket);box-shadow:0 0 7px var(--bigbasket)}
+.col-name{font-family:'Syne',sans-serif;font-weight:700;font-size:14px}
+.col-count{margin-left:auto;font-size:11px;color:var(--muted);background:rgba(255,255,255,0.05);padding:2px 9px;border-radius:20px}
+.product-list{padding:4px 0}
+.pitem{display:flex;align-items:center;gap:11px;padding:11px 14px;border-bottom:1px solid var(--border);animation:fi .3s ease both}
+.pitem:last-child{border-bottom:none}
+.pitem:hover{background:rgba(255,255,255,0.02)}
+@keyframes fi{from{opacity:0;transform:translateY(5px)}to{opacity:1;transform:translateY(0)}}
+.pimg{width:44px;height:44px;border-radius:9px;background:var(--surface2);flex-shrink:0;display:flex;align-items:center;justify-content:center;font-size:18px;overflow:hidden}
+.pimg img{width:100%;height:100%;object-fit:cover;border-radius:9px}
+.pinfo{flex:1;min-width:0}
+.pname{font-size:12px;font-weight:500;line-height:1.3;overflow:hidden;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}
+.punit{font-size:10px;color:var(--muted);margin-top:2px}
+.cbadge{font-size:9px;font-weight:700;background:rgba(34,197,94,0.18);color:var(--green);border:1px solid rgba(34,197,94,0.3);padding:1px 6px;border-radius:12px;margin-top:3px;display:inline-block}
+.pright{display:flex;flex-direction:column;align-items:flex-end;gap:3px;flex-shrink:0}
+.pprice{font-family:'Syne',sans-serif;font-size:15px;font-weight:700}
+.pmrp{font-size:10px;color:var(--muted);text-decoration:line-through}
+.pdisc{font-size:9px;font-weight:600;background:rgba(34,197,94,0.13);color:var(--green);padding:1px 5px;border-radius:4px}
+.buy-btn{display:inline-block;padding:5px 11px;border-radius:7px;font-family:'Syne',sans-serif;font-size:10px;font-weight:700;text-decoration:none;transition:opacity .15s;white-space:nowrap;margin-top:3px}
+.buy-btn:hover{opacity:.8}
+.buy-btn.blinkit{background:var(--blinkit);color:#000}
+.buy-btn.zepto{background:var(--zepto);color:#fff}
+.buy-btn.jiomart{background:var(--jiomart);color:#fff}
+.buy-btn.bigbasket{background:var(--bigbasket);color:#000}
+.empty{padding:40px 16px;text-align:center;color:var(--muted);font-size:13px}
+.empty-icon{font-size:30px;margin-bottom:10px}
+
+footer{text-align:center;padding:28px 0 44px;font-size:11px;color:var(--muted);border-top:1px solid var(--border);margin-top:20px}
+.toast{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background:#1a1a26;border:1px solid rgba(239,68,68,0.3);color:#fca5a5;padding:10px 20px;border-radius:10px;font-size:12px;z-index:100;display:none}
+</style>
+</head>
+<body>
+<div class="orb orb1"></div>
+<div class="orb orb2"></div>
+<div class="wrap">
+
+<header>
+  <div class="logo"><div class="logo-icon">⚡</div><span class="logo-text">QuickCart</span></div>
+  <p class="tagline">Real-time price comparison · Blinkit · Zepto · JioMart · BigBasket</p>
+</header>
+
+<div class="search-wrap">
+  <div class="search-row">
+    <input class="search-input" id="searchInput" type="text" placeholder="Search milk, football, atta, chips..." autocomplete="off"/>
+    <button class="search-btn" id="searchBtn" onclick="doSearch()">Compare →</button>
+  </div>
+  <div class="loc-row"><div class="loc-dot"></div><span id="locText">Detecting location...</span></div>
+  <div class="tags">
+    <span class="tag" onclick="qs('milk')">🥛 Milk</span>
+    <span class="tag" onclick="qs('football')">⚽ Football</span>
+    <span class="tag" onclick="qs('chips')">🍟 Chips</span>
+    <span class="tag" onclick="qs('eggs')">🥚 Eggs</span>
+    <span class="tag" onclick="qs('bread')">🍞 Bread</span>
+    <span class="tag" onclick="qs('atta')">🌾 Atta</span>
+    <span class="tag" onclick="qs('rice')">🍚 Rice</span>
+    <span class="tag" onclick="qs('water bottle')">💧 Water</span>
+  </div>
+</div>
+
+<div class="status" id="status"><span class="spinner"></span>Comparing prices across 4 platforms...</div>
+
+<div class="buy-suggestion" id="buySuggestion">
+  <div class="bs-icon" id="bsIcon">💡</div>
+  <div>
+    <div class="bs-title" id="bsTitle">—</div>
+    <div class="bs-desc" id="bsDesc">—</div>
+    <div class="bs-stats" id="bsStats"></div>
+  </div>
+</div>
+
+<div class="winner" id="winner">
+  <div class="winner-left">
+    <div class="winner-label">🏆 Best Price Found</div>
+    <div class="winner-name" id="wName">—</div>
+    <div class="winner-meta" id="wMeta">—</div>
+  </div>
+  <div class="winner-right">
+    <div class="winner-price" id="wPrice">—</div>
+    <a class="buy-btn-winner" id="wBuyBtn" href="#" target="_blank" rel="noopener">Buy Now →</a>
+  </div>
+</div>
+
+<div class="grid" id="grid" style="display:none">
+  <div class="col"><div class="col-head blinkit"><div class="dot blinkit"></div><span class="col-name">Blinkit</span><span class="col-count" id="cBlinkit">—</span></div><div class="product-list" id="lBlinkit"><div class="empty"><div class="empty-icon">🔍</div>Search to compare</div></div></div>
+  <div class="col"><div class="col-head zepto"><div class="dot zepto"></div><span class="col-name">Zepto</span><span class="col-count" id="cZepto">—</span></div><div class="product-list" id="lZepto"><div class="empty"><div class="empty-icon">🔍</div>Search to compare</div></div></div>
+  <div class="col"><div class="col-head jiomart"><div class="dot jiomart"></div><span class="col-name">JioMart</span><span class="col-count" id="cJiomart">—</span></div><div class="product-list" id="lJiomart"><div class="empty"><div class="empty-icon">🔍</div>Search to compare</div></div></div>
+  <div class="col"><div class="col-head bigbasket"><div class="dot bigbasket"></div><span class="col-name">BigBasket</span><span class="col-count" id="cBigbasket">—</span></div><div class="product-list" id="lBigbasket"><div class="empty"><div class="empty-icon">🔍</div>Search to compare</div></div></div>
+</div>
+
+</div>
+<div class="toast" id="toast"></div>
+<footer><div class="wrap">QuickCart · Research Project · Best Time to Buy · Blinkit · Zepto · JioMart · BigBasket · Flask + Playwright</div></footer>
+
+<script>
+let lat=28.465204, lon=77.06159;
+const sUrl={blinkit:n=>`https://blinkit.com/s/?q=${encodeURIComponent(n)}`,zepto:n=>`https://www.zepto.com/search?query=${encodeURIComponent(n)}`,jiomart:n=>`https://www.jiomart.com/search?q=${encodeURIComponent(n)}`,bigbasket:n=>`https://www.bigbasket.com/ps/?q=${encodeURIComponent(n)}&nc=as`};
+const base={blinkit:'https://blinkit.com',zepto:'https://www.zepto.com',jiomart:'https://www.jiomart.com',bigbasket:'https://www.bigbasket.com'};
+
+navigator.geolocation?.getCurrentPosition(
+  p=>{lat=p.coords.latitude;lon=p.coords.longitude;document.getElementById('locText').textContent=`📍 ${lat.toFixed(4)}, ${lon.toFixed(4)}`},
+  ()=>{document.getElementById('locText').textContent='📍 Mumbai (default)'},
+  {timeout:5000}
+);
+
+document.getElementById('searchInput').addEventListener('keydown',e=>{if(e.key==='Enter')doSearch()});
+function qs(t){document.getElementById('searchInput').value=t;doSearch()}
+
+async function doSearch(){
+  const q=document.getElementById('searchInput').value.trim();
+  if(!q)return;
+  setLoading(true);
+  try{
+    const r=await fetch(`http://localhost:5000/search?q=${encodeURIComponent(q)}&lat=${lat}&lon=${lon}`);
+    if(!r.ok)throw new Error(r.status);
+    const d=await r.json();
+    renderResults(d);
+    renderBuySuggestion(d);
+  }catch(e){
+    toast('Cannot reach backend. Make sure server.py is running on port 5000.');
+  }finally{
+    setLoading(false);
+  }
+}
+
+function renderResults(d){
+  document.getElementById('grid').style.display='grid';
+  ['blinkit','zepto','jiomart','bigbasket'].forEach(pl=>{
+    renderList(`l${pl.charAt(0).toUpperCase()+pl.slice(1)}`, d[pl]||[], pl);
+    document.getElementById(`c${pl.charAt(0).toUpperCase()+pl.slice(1)}`).textContent=d.count?.[pl]?`${d.count[pl]} found`:'No results';
+  });
+  const best=d.cheapest?.[0];
+  if(best){
+    document.getElementById('winner').style.display='flex';
+    document.getElementById('wName').textContent=best.name;
+    document.getElementById('wPrice').textContent=`₹${best.price}`;
+    document.getElementById('wMeta').textContent=`on ${best.platform}`+(best.unit?` · ${best.unit}`:'');
+    const pl=best.platform.toLowerCase().replace('basket','basket');
+    const key=Object.keys(sUrl).find(k=>best.platform.toLowerCase().includes(k))||'blinkit';
+    const valid=best.url&&!Object.values(base).some(b=>best.url===b||best.url===b+'/');
+    const btn=document.getElementById('wBuyBtn');
+    btn.href=valid?best.url:sUrl[key](best.name);
+    btn.textContent=valid?'Buy Now →':'Search Now →';
+  }
+}
+
+function renderBuySuggestion(d){
+  const el=document.getElementById('buySuggestion');
+  const all=[...(d.blinkit||[]),...(d.zepto||[]),...(d.jiomart||[]),...(d.bigbasket||[])];
+  if(!all.length){el.style.display='none';return;}
+  const prices=all.map(p=>p.price).filter(Boolean);
+  const discounts=all.map(p=>p.discount||0);
+  const minP=Math.min(...prices), maxP=Math.max(...prices);
+  const avgDisc=Math.round(discounts.reduce((a,b)=>a+b,0)/discounts.length);
+  const maxDisc=Math.max(...discounts);
+  const spread=maxP>0?Math.round(((maxP-minP)/maxP)*100):0;
+  const avail=['blinkit','zepto','jiomart','bigbasket'].filter(pl=>(d[pl]||[]).length>0).length;
+  let cls,icon,title,desc,stats;
+  if(maxDisc>=40){
+    cls='buy-now';icon='🔥';title=`Great time to buy — up to ${maxDisc}% off right now!`;
+    desc=`Strong discounts across platforms. You can save ₹${maxP-minP} by picking the cheapest option. Prices may rise — consider buying now.`;
+    stats=[{l:'Best discount',v:`${maxDisc}% off`},{l:'Avg discount',v:`${avgDisc}% off`},{l:'Platforms available',v:`${avail}/4`},{l:'Price range',v:`₹${minP} – ₹${maxP}`}];
+  } else if(maxDisc>=15&&spread>=20){
+    cls='buy-now';icon='✅';title=`Good time to buy — decent deals available`;
+    desc=`Prices vary ${spread}% across platforms. Cheapest is ₹${minP} with ${maxDisc}% discount available. ${avail} platforms have this in stock.`;
+    stats=[{l:'Best price',v:`₹${minP}`},{l:'You save',v:`₹${maxP-minP}`},{l:'Best discount',v:`${maxDisc}% off`},{l:'Platforms',v:`${avail}/4 available`}];
+  } else if(maxDisc<10&&avail<3){
+    cls='wait';icon='⏳';title=`Consider waiting — low discounts right now`;
+    desc=`Only ${avail} platform${avail>1?'s':''} stocking this with minimal discounts (${maxDisc}% max). Prices may improve during weekend sales or festive season.`;
+    stats=[{l:'Max discount',v:`${maxDisc}% off`},{l:'Platforms stocking',v:`${avail}/4`},{l:'Price range',v:`₹${minP} – ₹${maxP}`},{l:'Tip',v:'Check back during sales'}];
+  } else {
+    cls='buy-now';icon='💡';title=`Compare and decide — ${spread}% difference across platforms`;
+    desc=`Save ₹${maxP-minP} by choosing the right platform. ${avail} out of 4 platforms have this in stock right now.`;
+    stats=[{l:'Cheapest',v:`₹${minP}`},{l:'Most expensive',v:`₹${maxP}`},{l:'You save',v:`₹${maxP-minP} (${spread}%)`},{l:'Platforms',v:`${avail}/4 available`}];
+  }
+  el.className=`buy-suggestion ${cls}`;
+  document.getElementById('bsIcon').textContent=icon;
+  document.getElementById('bsTitle').textContent=title;
+  document.getElementById('bsDesc').textContent=desc;
+  document.getElementById('bsStats').innerHTML=stats.map(s=>`<div class="bs-stat"><strong>${s.v}</strong>${s.l}</div>`).join('');
+  el.style.display='flex';
+}
+
+function renderList(id,items,platform){
+  const el=document.getElementById(id);
+  if(!items.length){el.innerHTML=`<div class="empty"><div class="empty-icon">😶</div>No results found</div>`;return;}
+  el.innerHTML=items.slice(0,7).map((p,i)=>{
+    const valid=p.url&&!Object.values(base).some(b=>p.url===b||p.url===b+'/');
+    const href=valid?p.url:sUrl[platform](p.name);
+    return`<div class="pitem" style="animation-delay:${i*35}ms">
+      <div class="pimg">${p.image?`<img src="${p.image}" alt="" onerror="this.parentElement.textContent='📦'"/>`:'📦'}</div>
+      <div class="pinfo">
+        <div class="pname" title="${p.name}">${p.name}</div>
+        ${p.unit?`<div class="punit">${p.unit}</div>`:''}
+        ${i===0?'<div class="cbadge">⚡ Cheapest</div>':''}
+      </div>
+      <div class="pright">
+        <div class="pprice" style="color:var(--${platform})">₹${p.price}</div>
+        ${p.mrp&&p.mrp>p.price?`<div class="pmrp">₹${p.mrp}</div><div class="pdisc">${p.discount}% off</div>`:''}
+        <a class="buy-btn ${platform}" href="${href}" target="_blank" rel="noopener">${valid?'Buy →':'Search →'}</a>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+function setLoading(on){
+  document.getElementById('status').style.display=on?'block':'none';
+  document.getElementById('searchBtn').disabled=on;
+  document.getElementById('searchBtn').textContent=on?'Searching...':'Compare →';
+  if(!on)return;
+  document.getElementById('winner').style.display='none';
+  document.getElementById('buySuggestion').style.display='none';
+}
+
+function toast(msg){
+  const t=document.getElementById('toast');
+  t.textContent=msg;t.style.display='block';
+  setTimeout(()=>t.style.display='none',4000);
+}
+</script>
+</body>
+</html>
