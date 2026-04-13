@@ -10,16 +10,15 @@ from playwright.sync_api import sync_playwright
 import json
 
 PRODUCT = input("Product to search (e.g. football): ").strip() or "football"
-SITE    = input("Site? [1] Blinkit  [2] Zepto : ").strip()
+SITE    = input("Site? [1] Blinkit  [2] Zepto  [3] Swiggy Instamart : ").strip()
 
 captured = []
 
 def handle_response(response):
     url = response.url
-    # Skip fonts, images, JS bundles, tracking
     if any(url.endswith(ext) for ext in [".woff2",".woff",".js",".css",".png",".jpg",".ico",".svg"]):
         return
-    if any(s in url for s in ["facebook","google","appsflyer","firebase","sentry","gtm","jumbo.blinkit"]):
+    if any(s in url for s in ["facebook","google","appsflyer","firebase","sentry","gtm"]):
         return
     try:
         body = response.body()
@@ -44,7 +43,13 @@ with sync_playwright() as p:
     page = browser.new_page()
     page.on("response", handle_response)
 
-    url = "https://www.zeptonow.com" if SITE == "2" else "https://blinkit.com"
+    if SITE == "3":
+        url = "https://www.swiggy.com/instamart"
+    elif SITE == "2":
+        url = "https://www.zeptonow.com"
+    else:
+        url = "https://blinkit.com"
+
     print(f"\n📡 Browser is opening {url}")
     print(f"   → Set your location")
     print(f"   → Search for '{PRODUCT}'  (watch terminal for API calls!)")
